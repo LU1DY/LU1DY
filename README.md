@@ -92,7 +92,7 @@
 
 </p>
 
-![Snake animation](https://github.com/LU1DY/LU1DY/blob/main/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/LU1DY/LU1DY/blob/output/github-contribution-grid-snake.svg)
 
 
 
