@@ -91,3 +91,6 @@
   />
 
 </p>
+
+![Snake animation](https://github.com/LU1DY/snakes/blob/output/github-contribution-grid-snake.svg)
+
