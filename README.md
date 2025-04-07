@@ -80,14 +80,14 @@
     alt="GitHub Stats" 
     height="190"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LU1DY&show_icons=true&theme=Onedark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LU1DY&show_icons=true&theme=Jolly&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LU1DY&theme=Onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LU1DY&theme=Jolly&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
