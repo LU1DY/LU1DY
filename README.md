@@ -92,5 +92,6 @@
 
 </p>
 
-![Snake animation](https://github.com/LU1DY/snakes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luidymichael/luidymichael/blob/output/github-contribution-grid-snake.svg)
+
 
