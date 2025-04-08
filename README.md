@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Web`**
 
-<p> Me chamo Luidy, tenho 21 anos. Concluí o ensino médio e logo em seguida me formei como técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário de Itajubá. Antes, para mim, tecnologia era apenas um hobby, apenas uma paixão, mas hoje, está cada vez mais perto de se tornar uma profissão! Atualmente, além da faculdade, exploro o mundo do desenvolvimento web, com HTML, CSS, JavaScript e Python.</p>
+<p>Me chamo Luidy, tenho 21 anos. Concluí o ensino médio e, logo em seguida, me formei como técnico em Informática. Atualmente, curso Análise e Desenvolvimento de Sistemas no Centro Universitário de Itajubá.
+
+O que antes era apenas um hobby e uma paixão, hoje se transforma, cada vez mais, em uma verdadeira profissão. Além da graduação, dedico meu tempo ao desenvolvimento web, explorando tecnologias como HTML, CSS, JavaScript e Python.</p>
 
 <div> 
   <a href="https://instagram.com/luidy.michael.7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
