@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-<p>Me chamo Luidy, tenho 21 anos. Concluí o ensino médio e, logo em seguida, me formei como técnico em Informática. Atualmente, curso Análise e Desenvolvimento de Sistemas no Centro Universitário de Itajubá.
+<p>Me chamo Luidy, tenho 21 anos. Concluí o ensino médio e, logo em seguida, me formei como técnico em Informática. Atualmente, curso de Sistemas de Informação no Centro Universitário de Itajubá.
 
 O que antes era apenas um hobby e uma paixão, hoje se transforma, cada vez mais, em uma verdadeira profissão. Além da graduação, dedico meu tempo ao desenvolvimento web, explorando tecnologias como HTML, CSS, JavaScript e Python.</p>
 
