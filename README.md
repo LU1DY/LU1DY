@@ -123,6 +123,16 @@ O que antes era apenas um hobby e uma paixão, hoje se transforma, cada vez mais
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Figma"
+    title="Figma" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+
+
 
 <br/>
 <br/>
